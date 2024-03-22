@@ -1,3 +1,3 @@
 I wanted to explore how little movements within a "Still life" scene can bring said scene--filled with inanimate objects--to life. I used common still life objects such as the skull and the candle, and incorporated little pieces of movement to each of them with the mouseX and mouseY variables. Although I did not fully accomplish what I set out to do , which was to make the skull 'rotate' through optical illusion, I still think the scene turned out nicely.
 
-![Mouse Hover Interaction Demo]([url_of_your_gif](https://github.com/ezhou03/-Not-StillLife/blob/main/Screen%20Recording%202024-03-21%20at%206.15.05%20PM.gif?raw=true)https://github.com/ezhou03/-Not-StillLife/blob/main/Screen%20Recording%202024-03-21%20at%206.15.05%20PM.gif?raw=true)
+![Mouse Hover Interaction Demo](https://github.com/ezhou03/-Not-StillLife/blob/main/Screen%20Recording%202024-03-21%20at%206.15.05%20PM.gif?raw=true)
