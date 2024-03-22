@@ -1,10 +1,3 @@
-/*With this assignment, I wanted to explore how little movements within a "Still life" scene can bring
-said scene--filled with inanimate objects--to life. I used common still life objects such as the skull and the
-candle, and incorporated little pieces of movement to each of them with the mouseX and mouseY variables.
-Although I did not fully accomplish what I set out to do , which was to make the skull 'rotate' throuhg optical
-illusion, I still think the scene turned out nicely.
-*/
-
 color skull = color(#E1AD49);
 float brightness = mouseY;
 float saturation;
